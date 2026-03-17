@@ -57,9 +57,9 @@ Durante o projeto, foram investigadas questões como:
 
 ## 📈 Principais insights
 
-- A taxa de chamadas perdidas é elevada(46,6%) e representa ponto crítico da operação
-- Chamadas realizadas por operadores apresentam maior probabilidade de não serem completadas, sugerindo influência do comportamento de resposta dos clientes
-- Diferenças de comportamento entre planos tarifários  
+- A taxa de chamadas perdidas é elevada (46,6%), representando um ponto crítico na operação  
+- Chamadas realizadas por operadores apresentam maior probabilidade de não serem completadas, sugerindo influência do comportamento de resposta dos clientes  
+- Foram identificadas diferenças de comportamento entre clientes de diferentes planos tarifários  
 - Operadores mais ativos tendem a apresentar melhor desempenho, com menor proporção de chamadas perdidas  
 
 ---
